@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Self-motivated and aspiring full-stack web developer capable of writing optimized code using HTML, CSS, JavaScript and Java.
+Self-motivated and aspiring Java Backend developer capable of writing optimized code using HTML, CSS, JavaScript and Java.
 
 
 ## 🌐 Socials:
