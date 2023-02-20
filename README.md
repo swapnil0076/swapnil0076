@@ -1,8 +1,7 @@
 <div align="center">
   
   ![Header](https://user-images.githubusercontent.com/58816804/220159681-4762c0ad-d672-465c-a4ce-d1578dc53360.png)
-<img src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966" align="center" style="width: 100%" style = "border-radius: 25%"/>
-</div>  
+
   
 # 💫 About Me:
 I'm Swapnil Dhiman<br>🤝 Aspiring Java Backend Developer,<br>🌱 Learning about Java, JavaScript HTML, CSS, and Data Structure And Algorithms.<br>💬 Ask me about Java, JavaScript<br>⚡ Love to play Competitive games with friends, enjoy movies, and music <br> 💻 My Portfolio : [https://github.com/swapnil0076/Swapnil0076.github.io](https://swapnil0076.github.io/).
